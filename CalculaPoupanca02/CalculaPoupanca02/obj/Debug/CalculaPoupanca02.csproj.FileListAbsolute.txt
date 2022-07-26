@@ -1,0 +1,8 @@
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\bin\Debug\CalculaPoupanca02.exe.config
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\bin\Debug\CalculaPoupanca02.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\bin\Debug\CalculaPoupanca02.pdb
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\obj\Debug\CalculaPoupanca02.csproj.AssemblyReference.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\obj\Debug\CalculaPoupanca02.csproj.SuggestedBindingRedirects.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\obj\Debug\CalculaPoupanca02.csproj.CoreCompileInputs.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\obj\Debug\CalculaPoupanca02.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\CalculaPoupanca02\CalculaPoupanca02\obj\Debug\CalculaPoupanca02.pdb

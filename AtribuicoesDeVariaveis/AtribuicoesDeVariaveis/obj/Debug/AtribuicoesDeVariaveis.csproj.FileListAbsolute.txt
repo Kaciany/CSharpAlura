@@ -1,0 +1,8 @@
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe.config
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.pdb
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\AtribuicoesDeVariaveis\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.pdb

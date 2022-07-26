@@ -1,0 +1,8 @@
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\bin\Debug\MaoNaMassa.exe.config
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\bin\Debug\MaoNaMassa.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\bin\Debug\MaoNaMassa.pdb
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.AssemblyReference.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.SuggestedBindingRedirects.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\obj\Debug\MaoNaMassa.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\MaoNaMassa\MaoNaMassa\obj\Debug\MaoNaMassa.pdb

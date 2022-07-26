@@ -1,0 +1,8 @@
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\bin\Debug\ForEncadeado.exe.config
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\bin\Debug\ForEncadeado.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\bin\Debug\ForEncadeado.pdb
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\obj\Debug\ForEncadeado.csproj.AssemblyReference.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\obj\Debug\ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\obj\Debug\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\obj\Debug\ForEncadeado.exe
+C:\Users\kacia\OneDrive\Documentos\AluraCSharp\ForEncadeado\ForEncadeado\obj\Debug\ForEncadeado.pdb
